@@ -1,0 +1,806 @@
+[
+  {
+    "timestampSeconds": 1704516115,
+    "confidence": 37,
+    "motion": 1,
+    "light": 3
+  },
+  {
+    "timestampSeconds": 1704515574,
+    "confidence": 40,
+    "motion": 1,
+    "light": 3
+  },
+  {
+    "timestampSeconds": 1704515033,
+    "confidence": 43,
+    "motion": 1,
+    "light": 3
+  },
+  {
+    "timestampSeconds": 1704514492,
+    "confidence": 94,
+    "motion": 1,
+    "light": 2
+  },
+  {
+    "timestampSeconds": 1704513951,
+    "confidence": 94,
+    "motion": 1,
+    "light": 2
+  },
+  {
+    "timestampSeconds": 1704513410,
+    "confidence": 94,
+    "motion": 1,
+    "light": 2
+  },
+  {
+    "timestampSeconds": 1704512869,
+    "confidence": 94,
+    "motion": 1,
+    "light": 2
+  },
+  {
+    "timestampSeconds": 1704512328,
+    "confidence": 94,
+    "motion": 1,
+    "light": 2
+  },
+  {
+    "timestampSeconds": 1704511787,
+    "confidence": 94,
+    "motion": 1,
+    "light": 2
+  },
+  {
+    "timestampSeconds": 1704511246,
+    "confidence": 94,
+    "motion": 1,
+    "light": 2
+  },
+  {
+    "timestampSeconds": 1704510705,
+    "confidence": 94,
+    "motion": 1,
+    "light": 2
+  },
+  {
+    "timestampSeconds": 1704510164,
+    "confidence": 94,
+    "motion": 1,
+    "light": 2
+  },
+  {
+    "timestampSeconds": 1704509623,
+    "confidence": 83,
+    "motion": 1,
+    "light": 2
+  },
+  {
+    "timestampSeconds": 1704509082,
+    "confidence": 78,
+    "motion": 1,
+    "light": 2
+  },
+  {
+    "timestampSeconds": 1704508541,
+    "confidence": 94,
+    "motion": 1,
+    "light": 2
+  },
+  {
+    "timestampSeconds": 1704508000,
+    "confidence": 94,
+    "motion": 1,
+    "light": 2
+  },
+  {
+    "timestampSeconds": 1704507459,
+    "confidence": 94,
+    "motion": 1,
+    "light": 2
+  },
+  {
+    "timestampSeconds": 1704506918,
+    "confidence": 94,
+    "motion": 1,
+    "light": 2
+  },
+  {
+    "timestampSeconds": 1704506377,
+    "confidence": 94,
+    "motion": 1,
+    "light": 2
+  },
+  {
+    "timestampSeconds": 1704505836,
+    "confidence": 94,
+    "motion": 1,
+    "light": 2
+  },
+  {
+    "timestampSeconds": 1704505295,
+    "confidence": 94,
+    "motion": 1,
+    "light": 2
+  },
+  {
+    "timestampSeconds": 1704504754,
+    "confidence": 94,
+    "motion": 1,
+    "light": 2
+  },
+  {
+    "timestampSeconds": 1704504213,
+    "confidence": 94,
+    "motion": 1,
+    "light": 2
+  },
+  {
+    "timestampSeconds": 1704503672,
+    "confidence": 94,
+    "motion": 1,
+    "light": 2
+  },
+  {
+    "timestampSeconds": 1704503131,
+    "confidence": 97,
+    "motion": 1,
+    "light": 1
+  },
+  {
+    "timestampSeconds": 1704502590,
+    "confidence": 97,
+    "motion": 1,
+    "light": 1
+  },
+  {
+    "timestampSeconds": 1704502039,
+    "confidence": 97,
+    "motion": 1,
+    "light": 1
+  },
+  {
+    "timestampSeconds": 1704501989,
+    "confidence": 97,
+    "motion": 1,
+    "light": 1
+  },
+  {
+    "timestampSeconds": 1704501448,
+    "confidence": 97,
+    "motion": 1,
+    "light": 1
+  },
+  {
+    "timestampSeconds": 1704500907,
+    "confidence": 97,
+    "motion": 1,
+    "light": 1
+  },
+  {
+    "timestampSeconds": 1704500366,
+    "confidence": 97,
+    "motion": 1,
+    "light": 1
+  },
+  {
+    "timestampSeconds": 1704499825,
+    "confidence": 97,
+    "motion": 1,
+    "light": 1
+  },
+  {
+    "timestampSeconds": 1704499284,
+    "confidence": 97,
+    "motion": 1,
+    "light": 1
+  },
+  {
+    "timestampSeconds": 1704498743,
+    "confidence": 97,
+    "motion": 1,
+    "light": 1
+  },
+  {
+    "timestampSeconds": 1704498202,
+    "confidence": 97,
+    "motion": 1,
+    "light": 1
+  },
+  {
+    "timestampSeconds": 1704497661,
+    "confidence": 97,
+    "motion": 1,
+    "light": 1
+  },
+  {
+    "timestampSeconds": 1704497120,
+    "confidence": 97,
+    "motion": 1,
+    "light": 1
+  },
+  {
+    "timestampSeconds": 1704496579,
+    "confidence": 97,
+    "motion": 1,
+    "light": 1
+  },
+  {
+    "timestampSeconds": 1704496037,
+    "confidence": 97,
+    "motion": 1,
+    "light": 1
+  },
+  {
+    "timestampSeconds": 1704495496,
+    "confidence": 95,
+    "motion": 1,
+    "light": 1
+  },
+  {
+    "timestampSeconds": 1704494955,
+    "confidence": 95,
+    "motion": 1,
+    "light": 1
+  },
+  {
+    "timestampSeconds": 1704494414,
+    "confidence": 95,
+    "motion": 1,
+    "light": 1
+  },
+  {
+    "timestampSeconds": 1704493873,
+    "confidence": 95,
+    "motion": 1,
+    "light": 1
+  },
+  {
+    "timestampSeconds": 1704493332,
+    "confidence": 95,
+    "motion": 1,
+    "light": 1
+  },
+  {
+    "timestampSeconds": 1704492791,
+    "confidence": 95,
+    "motion": 1,
+    "light": 1
+  },
+  {
+    "timestampSeconds": 1704492250,
+    "confidence": 95,
+    "motion": 1,
+    "light": 1
+  },
+  {
+    "timestampSeconds": 1704491709,
+    "confidence": 95,
+    "motion": 1,
+    "light": 1
+  },
+  {
+    "timestampSeconds": 1704491168,
+    "confidence": 95,
+    "motion": 1,
+    "light": 1
+  },
+  {
+    "timestampSeconds": 1704490627,
+    "confidence": 95,
+    "motion": 1,
+    "light": 1
+  },
+  {
+    "timestampSeconds": 1704490086,
+    "confidence": 95,
+    "motion": 1,
+    "light": 1
+  },
+  {
+    "timestampSeconds": 1704489545,
+    "confidence": 95,
+    "motion": 1,
+    "light": 1
+  },
+  {
+    "timestampSeconds": 1704489004,
+    "confidence": 95,
+    "motion": 1,
+    "light": 1
+  },
+  {
+    "timestampSeconds": 1704488463,
+    "confidence": 95,
+    "motion": 1,
+    "light": 1
+  },
+  {
+    "timestampSeconds": 1704487922,
+    "confidence": 95,
+    "motion": 1,
+    "light": 1
+  },
+  {
+    "timestampSeconds": 1704487381,
+    "confidence": 95,
+    "motion": 1,
+    "light": 1
+  },
+  {
+    "timestampSeconds": 1704486840,
+    "confidence": 95,
+    "motion": 1,
+    "light": 1
+  },
+  {
+    "timestampSeconds": 1704486299,
+    "confidence": 95,
+    "motion": 1,
+    "light": 1
+  },
+  {
+    "timestampSeconds": 1704485758,
+    "confidence": 95,
+    "motion": 1,
+    "light": 1
+  },
+  {
+    "timestampSeconds": 1704485217,
+    "confidence": 95,
+    "motion": 1,
+    "light": 1
+  },
+  {
+    "timestampSeconds": 1704484676,
+    "confidence": 95,
+    "motion": 1,
+    "light": 1
+  },
+  {
+    "timestampSeconds": 1704484135,
+    "confidence": 95,
+    "motion": 1,
+    "light": 1
+  },
+  {
+    "timestampSeconds": 1704483594,
+    "confidence": 95,
+    "motion": 1,
+    "light": 1
+  },
+  {
+    "timestampSeconds": 1704483053,
+    "confidence": 95,
+    "motion": 1,
+    "light": 1
+  },
+  {
+    "timestampSeconds": 1704482512,
+    "confidence": 95,
+    "motion": 1,
+    "light": 1
+  },
+  {
+    "timestampSeconds": 1704481971,
+    "confidence": 95,
+    "motion": 1,
+    "light": 1
+  },
+  {
+    "timestampSeconds": 1704481430,
+    "confidence": 95,
+    "motion": 1,
+    "light": 1
+  },
+  {
+    "timestampSeconds": 1704480889,
+    "confidence": 95,
+    "motion": 1,
+    "light": 1
+  },
+  {
+    "timestampSeconds": 1704480177,
+    "confidence": 95,
+    "motion": 1,
+    "light": 1
+  },
+  {
+    "timestampSeconds": 1704479635,
+    "confidence": 95,
+    "motion": 1,
+    "light": 1
+  },
+  {
+    "timestampSeconds": 1704479094,
+    "confidence": 95,
+    "motion": 1,
+    "light": 1
+  },
+  {
+    "timestampSeconds": 1704478553,
+    "confidence": 95,
+    "motion": 1,
+    "light": 1
+  },
+  {
+    "timestampSeconds": 1704478012,
+    "confidence": 95,
+    "motion": 1,
+    "light": 1
+  },
+  {
+    "timestampSeconds": 1704477470,
+    "confidence": 95,
+    "motion": 1,
+    "light": 1
+  },
+  {
+    "timestampSeconds": 1704476929,
+    "confidence": 95,
+    "motion": 1,
+    "light": 1
+  },
+  {
+    "timestampSeconds": 1704476388,
+    "confidence": 95,
+    "motion": 1,
+    "light": 1
+  },
+  {
+    "timestampSeconds": 1704475847,
+    "confidence": 95,
+    "motion": 1,
+    "light": 1
+  },
+  {
+    "timestampSeconds": 1704475306,
+    "confidence": 95,
+    "motion": 1,
+    "light": 1
+  },
+  {
+    "timestampSeconds": 1704474765,
+    "confidence": 95,
+    "motion": 1,
+    "light": 1
+  },
+  {
+    "timestampSeconds": 1704474224,
+    "confidence": 95,
+    "motion": 1,
+    "light": 1
+  },
+  {
+    "timestampSeconds": 1704473684,
+    "confidence": 95,
+    "motion": 1,
+    "light": 1
+  },
+  {
+    "timestampSeconds": 1704473143,
+    "confidence": 73,
+    "motion": 1,
+    "light": 1
+  },
+  {
+    "timestampSeconds": 1704472601,
+    "confidence": 83,
+    "motion": 1,
+    "light": 1
+  },
+  {
+    "timestampSeconds": 1704472060,
+    "confidence": 82,
+    "motion": 1,
+    "light": 4
+  },
+  {
+    "timestampSeconds": 1704471519,
+    "confidence": 68,
+    "motion": 1,
+    "light": 4
+  },
+  {
+    "timestampSeconds": 1704470978,
+    "confidence": 49,
+    "motion": 1,
+    "light": 4
+  },
+  {
+    "timestampSeconds": 1704470437,
+    "confidence": 60,
+    "motion": 1,
+    "light": 4
+  },
+  {
+    "timestampSeconds": 1704469896,
+    "confidence": 82,
+    "motion": 1,
+    "light": 4
+  },
+  {
+    "timestampSeconds": 1704469355,
+    "confidence": 82,
+    "motion": 1,
+    "light": 4
+  },
+  {
+    "timestampSeconds": 1704468814,
+    "confidence": 82,
+    "motion": 1,
+    "light": 4
+  },
+  {
+    "timestampSeconds": 1704468273,
+    "confidence": 82,
+    "motion": 1,
+    "light": 4
+  },
+  {
+    "timestampSeconds": 1704467732,
+    "confidence": 82,
+    "motion": 1,
+    "light": 4
+  },
+  {
+    "timestampSeconds": 1704467191,
+    "confidence": 82,
+    "motion": 1,
+    "light": 4
+  },
+  {
+    "timestampSeconds": 1704466650,
+    "confidence": 82,
+    "motion": 1,
+    "light": 4
+  },
+  {
+    "timestampSeconds": 1704466092,
+    "confidence": 82,
+    "motion": 1,
+    "light": 4
+  },
+  {
+    "timestampSeconds": 1704465551,
+    "confidence": 82,
+    "motion": 1,
+    "light": 4
+  },
+  {
+    "timestampSeconds": 1704465010,
+    "confidence": 82,
+    "motion": 1,
+    "light": 4
+  },
+  {
+    "timestampSeconds": 1704464469,
+    "confidence": 82,
+    "motion": 1,
+    "light": 4
+  },
+  {
+    "timestampSeconds": 1704463928,
+    "confidence": 82,
+    "motion": 1,
+    "light": 4
+  },
+  {
+    "timestampSeconds": 1704463387,
+    "confidence": 82,
+    "motion": 1,
+    "light": 4
+  },
+  {
+    "timestampSeconds": 1704462846,
+    "confidence": 82,
+    "motion": 1,
+    "light": 4
+  },
+  {
+    "timestampSeconds": 1704462305,
+    "confidence": 82,
+    "motion": 1,
+    "light": 4
+  },
+  {
+    "timestampSeconds": 1704461764,
+    "confidence": 82,
+    "motion": 1,
+    "light": 4
+  },
+  {
+    "timestampSeconds": 1704461223,
+    "confidence": 82,
+    "motion": 1,
+    "light": 4
+  },
+  {
+    "timestampSeconds": 1704460682,
+    "confidence": 82,
+    "motion": 1,
+    "light": 4
+  },
+  {
+    "timestampSeconds": 1704460141,
+    "confidence": 82,
+    "motion": 1,
+    "light": 4
+  },
+  {
+    "timestampSeconds": 1704459409,
+    "confidence": 82,
+    "motion": 1,
+    "light": 4
+  },
+  {
+    "timestampSeconds": 1704458868,
+    "confidence": 82,
+    "motion": 1,
+    "light": 4
+  },
+  {
+    "timestampSeconds": 1704458327,
+    "confidence": 51,
+    "motion": 1,
+    "light": 4
+  },
+  {
+    "timestampSeconds": 1704457786,
+    "confidence": 58,
+    "motion": 1,
+    "light": 4
+  },
+  {
+    "timestampSeconds": 1704457245,
+    "confidence": 67,
+    "motion": 1,
+    "light": 5
+  },
+  {
+    "timestampSeconds": 1704456694,
+    "confidence": 67,
+    "motion": 1,
+    "light": 5
+  },
+  {
+    "timestampSeconds": 1704456334,
+    "confidence": 67,
+    "motion": 1,
+    "light": 5
+  },
+  {
+    "timestampSeconds": 1704455974,
+    "confidence": 67,
+    "motion": 1,
+    "light": 5
+  },
+  {
+    "timestampSeconds": 1704455614,
+    "confidence": 67,
+    "motion": 1,
+    "light": 5
+  },
+  {
+    "timestampSeconds": 1704455255,
+    "confidence": 18,
+    "motion": 1,
+    "light": 5
+  },
+  {
+    "timestampSeconds": 1704454895,
+    "confidence": 15,
+    "motion": 1,
+    "light": 5
+  },
+  {
+    "timestampSeconds": 1704454535,
+    "confidence": 82,
+    "motion": 1,
+    "light": 4
+  },
+  {
+    "timestampSeconds": 1704453994,
+    "confidence": 82,
+    "motion": 1,
+    "light": 4
+  },
+  {
+    "timestampSeconds": 1704453453,
+    "confidence": 82,
+    "motion": 1,
+    "light": 4
+  },
+  {
+    "timestampSeconds": 1704452913,
+    "confidence": 62,
+    "motion": 1,
+    "light": 4
+  },
+  {
+    "timestampSeconds": 1704452372,
+    "confidence": 80,
+    "motion": 1,
+    "light": 4
+  },
+  {
+    "timestampSeconds": 1704451827,
+    "confidence": 32,
+    "motion": 1,
+    "light": 4
+  },
+  {
+    "timestampSeconds": 1704451498,
+    "confidence": 79,
+    "motion": 1,
+    "light": 3
+  },
+  {
+    "timestampSeconds": 1704450957,
+    "confidence": 40,
+    "motion": 1,
+    "light": 3
+  },
+  {
+    "timestampSeconds": 1704450416,
+    "confidence": 43,
+    "motion": 1,
+    "light": 3
+  },
+  {
+    "timestampSeconds": 1704449875,
+    "confidence": 94,
+    "motion": 1,
+    "light": 2
+  },
+  {
+    "timestampSeconds": 1704449334,
+    "confidence": 94,
+    "motion": 1,
+    "light": 2
+  },
+  {
+    "timestampSeconds": 1704448792,
+    "confidence": 94,
+    "motion": 1,
+    "light": 2
+  },
+  {
+    "timestampSeconds": 1704448245,
+    "confidence": 94,
+    "motion": 1,
+    "light": 2
+  },
+  {
+    "timestampSeconds": 1704447885,
+    "confidence": 94,
+    "motion": 1,
+    "light": 2
+  },
+  {
+    "timestampSeconds": 1704447526,
+    "confidence": 51,
+    "motion": 1,
+    "light": 2
+  },
+  {
+    "timestampSeconds": 1704447166,
+    "confidence": 12,
+    "motion": 6,
+    "light": 2
+  },
+  {
+    "timestampSeconds": 1704446858,
+    "confidence": 12,
+    "motion": 6,
+    "light": 2
+  },
+  {
+    "timestampSeconds": 1704446361,
+    "confidence": 94,
+    "motion": 1,
+    "light": 2
+  }
+]

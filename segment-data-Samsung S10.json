@@ -1,0 +1,17 @@
+[
+  {
+    "startTimeMillis": 1704629425171,
+    "endTimeMillis": 1704715465171,
+    "status": 1
+  },
+  {
+    "startTimeMillis": 1704471025171,
+    "endTimeMillis": 1704515305171,
+    "status": 0
+  },
+  {
+    "startTimeMillis": 0,
+    "endTimeMillis": 0,
+    "status": 2
+  }
+]
